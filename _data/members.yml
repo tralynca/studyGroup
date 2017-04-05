@@ -1,6 +1,8 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Peter van Heusden
+  affiliation: SANBI,UWC
+  github: pvanheus
   interests:
     - Programming
+    - Bioinformatics
     - Open Science
+    - CommunityBuilding
