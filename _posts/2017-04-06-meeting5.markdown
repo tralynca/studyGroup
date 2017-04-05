@@ -1,0 +1,9 @@
+---
+title: Study Group Meeting #5
+text: Splitting a FASTA file using Python
+location: Boardroom, SANBI, UWC
+link: https://github.com/SANBI-SA/studyGroup/issues/16
+date: 2017-04-06
+startTime: '14:00'
+endTime: '15:00'
+---
