@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+import click
+
+@click.command()
+@click.argument('inputfilename')
+@click.argument('output_prefix')
 def fastasplit(inputfilename, output_prefix):
     count = 0
     buffer = ''
@@ -20,5 +25,6 @@ def fastasplit(inputfilename, output_prefix):
     outputfile.close()
     print(count)
 
+# print('hello my name is:', __name__)
 if __name__ == '__main__':
-    fastasplit('trimmed.fasta', 'outputfile')
+    fastasplit()
