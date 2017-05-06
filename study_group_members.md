@@ -7,6 +7,4 @@ Study Group Members
 | Emily | Stander      | EmilyAmor     |
 | Min-ghah | Kariem     |   mkariem |
 | Yamkela | Mgwatyu      | mgwatyu     |
-| Francis | Muoghalu     | francisimbm     |
-| put name here | put surname here      | put username here     |
 | put name here | put surname here      | put username here     |
