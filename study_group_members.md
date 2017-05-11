@@ -8,4 +8,5 @@ Study Group Members
 | Min-ghah | Kariem     |   mkariem |
 | Yamkela | Mgwatyu      | mgwatyu     |
 | Samar | Elsheikh      | Elssam     |
+| Sarah         | DeRaedt Banks | sdebanks          | 
 | put name here | put surname here      | put username here     |
